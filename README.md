@@ -1,4 +1,6 @@
 # Domain-Adaptation
+Read the complete report [here](/Report.pdf)
+
 A conceptual analysis to use domain adaptation for classification of documents as "Sports" "Politics" and "Technology"
 
 To run the program please follow the below steps.
